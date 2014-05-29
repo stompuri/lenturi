@@ -1,0 +1,8 @@
+Plane	OH-DDS	OH-PJX	OH-BDA
+Fuel type (1=JET 2=AVGAS)	1	2	2
+FUEL capacity (l)	148	182	280
+FUEL CONS. (l/h)	20	38	51
+Speed [kts]	118	133	148
+Range [NM]	783	529	700
+TakeOff DIST [m]	650	550	630
+Landing DIST [m]	744	425	540
